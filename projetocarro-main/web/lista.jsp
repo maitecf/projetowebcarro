@@ -10,7 +10,7 @@
     </head>
     <body class="fundo">
         <h1 class="lista">Lista</h1>
-            <table>
+            <table id="editar">
                 <thead class="tabela">
                     <th>COD</th>
                     <th>MODELO</th>
@@ -46,7 +46,7 @@
                 </tbody>
            </table>
         
-    <button class="botao-lista">
+    <button class="botao-lista" id="editar">
         <a href="index.jsp" title="Página inicial">Página inicial</a>
         
         </button>
